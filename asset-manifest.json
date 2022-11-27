@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mikesportfolio/static/css/main.9420301a.css",
-    "main.js": "/mikesportfolio/static/js/main.fbbb43b9.js",
+    "main.js": "/mikesportfolio/static/js/main.10abc532.js",
     "static/media/target2.jpeg": "/mikesportfolio/static/media/target2.985d6df15503bc45eb96.jpeg",
     "static/media/finance.jpeg": "/mikesportfolio/static/media/finance.48fa9aa0b1b6be3168d8.jpeg",
     "static/media/soccer.jpg": "/mikesportfolio/static/media/soccer.33a644595dce3328242b.jpg",
@@ -22,10 +22,10 @@
     "static/media/java2.png": "/mikesportfolio/static/media/java2.6c64373d3b7415758078.png",
     "index.html": "/mikesportfolio/index.html",
     "main.9420301a.css.map": "/mikesportfolio/static/css/main.9420301a.css.map",
-    "main.fbbb43b9.js.map": "/mikesportfolio/static/js/main.fbbb43b9.js.map"
+    "main.10abc532.js.map": "/mikesportfolio/static/js/main.10abc532.js.map"
   },
   "entrypoints": [
     "static/css/main.9420301a.css",
-    "static/js/main.fbbb43b9.js"
+    "static/js/main.10abc532.js"
   ]
 }
